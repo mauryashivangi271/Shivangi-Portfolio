@@ -67,7 +67,8 @@ https://mauryashivangi271.github.io/Shivangi-Portfolio/
 ## 📫 Connect With Me
 
 * GitHub: https://github.com/mauryashivangi271
-* LinkedIn:  [www.linkedin.com/in/Vanity](http://www.linkedin.com/in/Vanity) URL name
+* LinkedIn: www.linkedin.com/in/
+shivangi-maurya19
 
 
   ⭐ Thanks for visiting my portfolio!
